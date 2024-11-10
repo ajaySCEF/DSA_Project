@@ -4,9 +4,7 @@
  Instructor : Dr. Anil Shukla
  Mentor : Avadhesh Gaur
 
- Anant Prakash Singh -2021CSB1066  
- Kartik Yadav -2021CSB1101  
- Aditya Kumar Sahu -2021MCB1228
+Ajay Kumar Poonia - 2022mcb1254
 
 */
 
